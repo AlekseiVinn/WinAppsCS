@@ -1,0 +1,10 @@
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\bin\Debug\WinAsynchDelegate.Framework.exe.config
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\bin\Debug\WinAsynchDelegate.Framework.exe
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\bin\Debug\WinAsynchDelegate.Framework.pdb
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.csproj.AssemblyReference.cache
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.Form1.resources
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.Properties.Resources.resources
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.csproj.GenerateResource.cache
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.csproj.CoreCompileInputs.cache
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.exe
+E:\C#\DesktopApps\WinAsynchDelegate.Framework\obj\Debug\WinAsynchDelegate.Framework.pdb

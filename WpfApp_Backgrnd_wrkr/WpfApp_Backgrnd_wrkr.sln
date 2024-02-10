@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Backgrnd_wrkr", "WpfApp_Backgrnd_wrkr.csproj", "{D23A618B-CAFB-4C85-9448-7F3EE1F98D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23A618B-CAFB-4C85-9448-7F3EE1F98D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23A618B-CAFB-4C85-9448-7F3EE1F98D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23A618B-CAFB-4C85-9448-7F3EE1F98D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23A618B-CAFB-4C85-9448-7F3EE1F98D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFF7F1D-A1EB-4322-B548-9B5B6C32693F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\C#\DesktopApps\WinAsynchMethod.FW\bin\Debug\WinAsynchMethod.FW.exe.config
+E:\C#\DesktopApps\WinAsynchMethod.FW\bin\Debug\WinAsynchMethod.FW.exe
+E:\C#\DesktopApps\WinAsynchMethod.FW\bin\Debug\WinAsynchMethod.FW.pdb
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.csproj.AssemblyReference.cache
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.Form1.resources
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.Properties.Resources.resources
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.csproj.GenerateResource.cache
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.csproj.CoreCompileInputs.cache
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.exe
+E:\C#\DesktopApps\WinAsynchMethod.FW\obj\Debug\WinAsynchMethod.FW.pdb

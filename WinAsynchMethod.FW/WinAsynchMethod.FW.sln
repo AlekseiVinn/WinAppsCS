@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod.FW", "WinAsynchMethod.FW.csproj", "{675D7CF5-73C2-4FC1-A9FB-9A3423E0E76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675D7CF5-73C2-4FC1-A9FB-9A3423E0E76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675D7CF5-73C2-4FC1-A9FB-9A3423E0E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675D7CF5-73C2-4FC1-A9FB-9A3423E0E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675D7CF5-73C2-4FC1-A9FB-9A3423E0E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D48D6B7-BC68-4CF8-B283-B1AAD1280F9F}
+	EndGlobalSection
+EndGlobal

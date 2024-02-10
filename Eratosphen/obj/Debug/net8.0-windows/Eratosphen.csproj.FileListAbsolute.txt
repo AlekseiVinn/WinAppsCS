@@ -1,0 +1,17 @@
+E:\C#\DesktopApps\Eratosphen\bin\Debug\net8.0-windows\Eratosphen.exe
+E:\C#\DesktopApps\Eratosphen\bin\Debug\net8.0-windows\Eratosphen.deps.json
+E:\C#\DesktopApps\Eratosphen\bin\Debug\net8.0-windows\Eratosphen.runtimeconfig.json
+E:\C#\DesktopApps\Eratosphen\bin\Debug\net8.0-windows\Eratosphen.dll
+E:\C#\DesktopApps\Eratosphen\bin\Debug\net8.0-windows\Eratosphen.pdb
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.csproj.GenerateResource.cache
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.AssemblyInfoInputs.cache
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.AssemblyInfo.cs
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.csproj.CoreCompileInputs.cache
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.sourcelink.json
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.dll
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\refint\Eratosphen.dll
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.pdb
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.genruntimeconfig.cache
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\ref\Eratosphen.dll
+E:\C#\DesktopApps\Eratosphen\obj\Debug\net8.0-windows\Eratosphen.Form1.resources

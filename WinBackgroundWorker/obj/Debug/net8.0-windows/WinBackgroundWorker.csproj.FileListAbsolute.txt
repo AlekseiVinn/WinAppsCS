@@ -1,0 +1,17 @@
+E:\C#\DesktopApps\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.exe
+E:\C#\DesktopApps\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.deps.json
+E:\C#\DesktopApps\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.runtimeconfig.json
+E:\C#\DesktopApps\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.dll
+E:\C#\DesktopApps\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.pdb
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.Form1.resources
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.csproj.GenerateResource.cache
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.AssemblyInfoInputs.cache
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.AssemblyInfo.cs
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.sourcelink.json
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.dll
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\refint\WinBackgroundWorker.dll
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.pdb
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.genruntimeconfig.cache
+E:\C#\DesktopApps\WinBackgroundWorker\obj\Debug\net8.0-windows\ref\WinBackgroundWorker.dll
